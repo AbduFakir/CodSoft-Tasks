@@ -1,2 +1,2 @@
 # CodSoft-Tasks
-The Tasks given by CodSoft as an internship 
+The Tasks given by CodSoft as an internship.
